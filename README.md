@@ -5,6 +5,7 @@ I am second-year Computer Science and Electrical Engineering student at KAIST (K
 
 I am passionate learner and currently interested in Artificial Intelligence (mainly ML, CV and NLP) and Data Science.
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakiTaro0414&show_icons=true&locale=en" alt="MisakiTaro0414" /></p>
 #### Programming Skills
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
