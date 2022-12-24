@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, 🐼</h1>
+<h1 align="left">Hi 👋, I am Ayhan 🐼</h1>
 
 
 I am second-year Computer Science and Electrical Engineering student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷. 
