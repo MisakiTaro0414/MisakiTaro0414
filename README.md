@@ -23,9 +23,8 @@ I am passionate learner and currently interested in Artificial Intelligence (mai
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayhansuleymanzade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayhansuleymanzade/" height="30" width="40" /></a>
 </p>
 
-<h3 align="right">
 [![Ayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisakiTaro0414)](https://github.com/anuraghazra/github-readme-stats)
-<\h3>
+
 
 
 [![HitCount](https://hits.dwyl.com/MisakiTaro0414/BUTD.svg?style=flat-square)](http://hits.dwyl.com/MisakiTaro0414/BUTD)
