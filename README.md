@@ -13,7 +13,7 @@ I am passionate learner and currently interested in Artificial Intelligence (mai
 
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakiTaro0414&show_icons=true&line_height=40&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MisakiTaro0414&count_private=true&show_icons=true&line_height=40&hide_border=true&theme=transparent)>
 </a>
 
 #### Frameworks
