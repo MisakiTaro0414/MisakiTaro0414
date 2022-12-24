@@ -24,4 +24,4 @@ I am passionate learner and currently interested in Artificial Intelligence (mai
 </p>
 
 [![HitCount](https://hits.dwyl.com/MisakiTaro0414/BUTD.svg?style=flat-square)](http://hits.dwyl.com/MisakiTaro0414/BUTD)
-[My github stats](https://github-readme-stats.vercel.app/api?username=MisakiTaro0414&show_icons=true&line_height=40)  
+![My github stats](https://github-readme-stats.vercel.app/api?username=MisakiTaro0414&show_icons=true&line_height=40)  
