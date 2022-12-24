@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, 🐼</h1>
-<h3 align="center">I am second-year Computer Science and Electrical Engineering student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷. I am passionate learner and currently interested in Artificial Intelligence (mainly ML, CV and NLP) and Data Science.</h3>
+
+
+I am second-year Computer Science and Electrical Engineering student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷. 
+
+I am passionate learner and currently interested in Artificial Intelligence (mainly ML, CV and NLP) and Data Science.
 
 #### Programming Skills
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
