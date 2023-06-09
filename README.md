@@ -3,7 +3,7 @@
 
 I am second-year Computer Science and Electrical Engineering student at KAIST (Korea Advanced Institute of Science and Technology) 🇰🇷. 
 
-I am passionate learner and currently interested in Artificial Intelligence (mainly ML, CV and NLP) and Data Science.
+My current research is focused on deep graph learning and transformers.
 
 
 
